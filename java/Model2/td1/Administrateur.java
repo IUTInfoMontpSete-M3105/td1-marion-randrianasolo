@@ -9,7 +9,4 @@ public class Administrateur extends Utilisateur{
         super(nom,prenom,adresse,mail);
     }
 
-
-
-
 }

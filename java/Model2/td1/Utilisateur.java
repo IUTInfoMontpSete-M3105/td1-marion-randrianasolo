@@ -29,4 +29,16 @@ public abstract class Utilisateur {
     private String adresse;
     private String mail;
 
+    @Override
+    public String toString() {
+        return "Utilisateur{" +
+                "nom='" + nom + '\'' +
+                ", prenom='" + prenom + '\'' +
+                ", adresse='" + adresse + '\'' +
+                ", mail='" + mail + '\'' +
+                '}';
+    }
+
+
+
 }

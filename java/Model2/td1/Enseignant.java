@@ -14,12 +14,15 @@ public class Enseignant extends Utilisateur {
         this.harpege=harpege;
     }
 
+
+    private int harpege;
     private int numem;
 
-    /**
-     * 
-     */
-    private int harpege;
+
+
+    public Devoir creerDevoir(String nom, String description, String deadline, int nbrePoints, Cours cours){
+        return new Devoir(nom,description,deadline,nbrePoints,cours);
+    }
 
     public void donner(Cours cours){
         // TODO implement here
@@ -32,8 +35,5 @@ public class Enseignant extends Utilisateur {
     public void corriger(Rendu rendu){
         // TODO implement here
     }
-
-
-
 
 }

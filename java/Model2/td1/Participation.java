@@ -36,4 +36,14 @@ public class Participation {
         // TODO implement here
     }
 
+    @Override
+    public String toString() {
+        return "Participation{" +
+                "etudiant=" + etudiant + '\'' +
+                ", totalPoints=" + totalPoints + '\'' +
+                ", appreciation='" + appreciation + '\'' +
+                ", cours=" + cours + '\'' +
+                ", EP=" + EP + '\'' +
+                '}';
+    }
 }

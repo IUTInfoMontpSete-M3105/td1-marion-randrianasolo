@@ -19,6 +19,8 @@ public class Devoir {
         rendu = new ArrayList<>();
     }
 
+
+
     private String nom;
     private String description;
     private String deadline;
@@ -26,4 +28,15 @@ public class Devoir {
     private List<Rendu> rendu;
     private Cours cours;
 
+    @Override
+    public String toString() {
+        return "Devoir{" +
+                "nom='" + nom + '\'' +
+                ", description='" + description + '\'' +
+                ", deadline='" + deadline + '\'' +
+                ", nbrePoints=" + nbrePoints +'\''+
+                ", rendu=" + rendu + '\''+
+                ", cours=" + cours + '\''+
+                '}';
+    }
 }

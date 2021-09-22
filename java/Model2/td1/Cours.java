@@ -57,4 +57,14 @@ public class Cours {
         // TODO implement here
     }
 
+    @Override
+    public String toString() {
+        return "Cours{" +
+                "nom='" + nom + '\'' +
+                ", semestre=" + semestre + '\''+
+                ", chargeDeCours=" + chargeDeCours + '\'' +
+                ", enseignants=" + enseignants + '\'' +
+                ", participations=" + participations +'\'' +
+                '}';
+    }
 }

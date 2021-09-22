@@ -12,10 +12,12 @@ public class App {
         Etudiant etudiant1 = new Etudiant("Sumi","Natalie","Los Santos","natsumi@gmail.com","244243FR");
         Etudiant etudiant2 = new Etudiant("Luo", "Wendy","Toronto","wendell@gmail.com","345133WL");
 
-        Cours coursProg = new Cours("cours",3,ens1);
+        Cours coursProg = new Cours("prog",3,ens1);
 
-        Devoir devoir1 = new Devoir("prog","Récursivité","16/08/2021",11,coursProg);
-        Devoir devoir2 = new Devoir("prog", "Optimisation","20/08/2021",13,coursProg);
+        Devoir devoir1 = ens1.creerDevoir("prog","Récursivité","16/08/2021",11,coursProg);
+        Devoir devoir2 = ens2.creerDevoir("prog", "Optimisation","20/08/2021",13,coursProg);
+
+
 
     }
 

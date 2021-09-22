@@ -51,4 +51,14 @@ public class Rendu {
         this.points=note;
     }
 
+    @Override
+    public String toString() {
+        return "Rendu{" +
+                "document='" + document + '\'' +
+                ", date='" + date + '\'' +
+                ", points=" + points + '\'' +
+                ", devoir=" + devoir + '\'' +
+                ", enseignant=" + enseignant + '\'' +
+                '}';
+    }
 }
