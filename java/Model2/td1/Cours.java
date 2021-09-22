@@ -1,8 +1,9 @@
+package td1;
 
 import java.util.*;
 
 /**
- * 
+ *
  */
 public class Cours {
 

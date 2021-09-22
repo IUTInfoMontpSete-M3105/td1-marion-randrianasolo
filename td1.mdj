@@ -261,7 +261,7 @@
 											"top": 445,
 											"width": 102.58447265625,
 											"height": 13,
-											"text": "Enseignant"
+											"text": "td1.Enseignant"
 										},
 										{
 											"_type": "LabelView",
@@ -540,7 +540,7 @@
 											"top": 717,
 											"width": 51.99365234375,
 											"height": 13,
-											"text": "Etudiant"
+											"text": "td1.Etudiant"
 										},
 										{
 											"_type": "LabelView",
@@ -720,7 +720,7 @@
 											"top": 589,
 											"width": 63.57177734375,
 											"height": 13,
-											"text": "Utilisateur"
+											"text": "td1.Utilisateur"
 										},
 										{
 											"_type": "LabelView",
@@ -994,7 +994,7 @@
 											"top": 445,
 											"width": 92.4599609375,
 											"height": 13,
-											"text": "Administrateur"
+											"text": "td1.Administrateur"
 										},
 										{
 											"_type": "LabelView",
@@ -10073,7 +10073,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7yZMNWfTZKFw="
 					},
-					"name": "Enseignant",
+					"name": "td1.Enseignant",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -10257,7 +10257,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7yZMNWfTZKFw="
 					},
-					"name": "Etudiant",
+					"name": "td1.Etudiant",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -10473,7 +10473,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7yZMNWfTZKFw="
 					},
-					"name": "Utilisateur",
+					"name": "td1.Utilisateur",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -10566,7 +10566,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7yZMNWfTZKFw="
 					},
-					"name": "Administrateur",
+					"name": "td1.Administrateur",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -11222,7 +11222,7 @@
 											"top": 167,
 											"width": 76.25439453125,
 											"height": 13,
-											"text": "Enseignant"
+											"text": "td1.Enseignant"
 										},
 										{
 											"_type": "LabelView",
@@ -11434,7 +11434,7 @@
 											"top": 167,
 											"width": 101.54345703125,
 											"height": 13,
-											"text": "Etudiant"
+											"text": "td1.Etudiant"
 										},
 										{
 											"_type": "LabelView",
@@ -11650,7 +11650,7 @@
 											"top": 156,
 											"width": 99.37255859375,
 											"height": 13,
-											"text": "Utilisateur"
+											"text": "td1.Utilisateur"
 										},
 										{
 											"_type": "LabelView",
@@ -11896,7 +11896,7 @@
 											"top": 343,
 											"width": 115.9716796875,
 											"height": 13,
-											"text": "Cours"
+											"text": "td1.Cours"
 										},
 										{
 											"_type": "LabelView",
@@ -12724,7 +12724,7 @@
 											"top": 719,
 											"width": 111.642578125,
 											"height": 13,
-											"text": "Devoir"
+											"text": "td1.Devoir"
 										},
 										{
 											"_type": "LabelView",
@@ -12970,7 +12970,7 @@
 											"top": 695,
 											"width": 151.70263671875,
 											"height": 13,
-											"text": "Participation"
+											"text": "td1.Participation"
 										},
 										{
 											"_type": "LabelView",
@@ -13953,7 +13953,7 @@
 											"top": 615,
 											"width": 92.4599609375,
 											"height": 13,
-											"text": "Administrateur"
+											"text": "td1.Administrateur"
 										},
 										{
 											"_type": "LabelView",
@@ -15219,7 +15219,7 @@
 											"top": 935,
 											"width": 113.80078125,
 											"height": 13,
-											"text": "Rendu"
+											"text": "td1.Rendu"
 										},
 										{
 											"_type": "LabelView",
@@ -16349,7 +16349,7 @@
 											"top": 935,
 											"width": 41.919921875,
 											"height": 13,
-											"text": "EP"
+											"text": "td1.EP"
 										},
 										{
 											"_type": "LabelView",
@@ -16490,7 +16490,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Utilisateur",
+					"name": "td1.Utilisateur",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -16513,7 +16513,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Administrateur",
+					"name": "td1.Administrateur",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -16566,7 +16566,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Enseignant",
+					"name": "td1.Enseignant",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -16799,7 +16799,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Etudiant",
+					"name": "td1.Etudiant",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -16916,7 +16916,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Utilisateur",
+					"name": "td1.Utilisateur",
 					"stereotype": "abstract",
 					"attributes": [
 						{
@@ -16968,7 +16968,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Cours",
+					"name": "td1.Cours",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -17108,7 +17108,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Devoir",
+					"name": "td1.Devoir",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -17219,7 +17219,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Participation",
+					"name": "td1.Participation",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -17359,7 +17359,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Administrateur",
+					"name": "td1.Administrateur",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -17457,7 +17457,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "Rendu",
+					"name": "td1.Rendu",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -17596,7 +17596,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7ydCtb9nUH9Q="
 					},
-					"name": "EP"
+					"name": "td1.EP"
 				}
 			]
 		},
@@ -17715,7 +17715,7 @@
 													"top": 87,
 													"width": 112.6708984375,
 													"height": 13,
-													"text": "Lifeline1: Etudiant"
+													"text": "Lifeline1: td1.Etudiant"
 												},
 												{
 													"_type": "LabelView",
@@ -17949,7 +17949,7 @@
 													"top": 87,
 													"width": 130.74267578125,
 													"height": 13,
-													"text": "ens: Enseignant"
+													"text": "ens: td1.Enseignant"
 												},
 												{
 													"_type": "LabelView",
@@ -18066,7 +18066,7 @@
 													"top": 47,
 													"width": 108.236328125,
 													"height": 13,
-													"text": "Lifeline4: Cours"
+													"text": "Lifeline4: td1.Cours"
 												},
 												{
 													"_type": "LabelView",
@@ -18182,7 +18182,7 @@
 													"top": 47,
 													"width": 111.1181640625,
 													"height": 13,
-													"text": "Lifeline6: Rendu"
+													"text": "Lifeline6: td1.Rendu"
 												},
 												{
 													"_type": "LabelView",
@@ -20180,7 +20180,7 @@
 													"top": 47,
 													"width": 149.41357421875,
 													"height": 13,
-													"text": "Lifeline3: Participation"
+													"text": "Lifeline3: td1.Participation"
 												},
 												{
 													"_type": "LabelView",
@@ -22109,7 +22109,7 @@
 										"$ref": "AAAAAAF77hHmkDWCGVM="
 									},
 									"edgePosition": 1,
-									"text": "Participation()"
+									"text": "td1.Participation()"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -23256,7 +23256,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF77f6TiDJ16jg="
 							},
-							"name": "Etudiant informé"
+							"name": "td1.Etudiant informé"
 						},
 						{
 							"_type": "UMLState",
@@ -23436,7 +23436,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF77hHmkDWBveY="
 									},
-									"name": "Participation()"
+									"name": "td1.Participation()"
 								}
 							]
 						},
